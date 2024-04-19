@@ -1,6 +1,6 @@
 {
-  "name": "ls",
-  "version": "1.0.0",
+  "name": "szb14_cli_number_guessing",
+  "version": "1.0.2",
   "description": "\"# cli_number_guessing\"",
   "main": "index.js",
   "type": "module",
